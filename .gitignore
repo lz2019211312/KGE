@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# 此项目的一些运行生成文件
+checkpoint/
+result/
+
 # Distribution / packaging
 .Python
 build/
